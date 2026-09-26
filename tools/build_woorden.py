@@ -11,6 +11,9 @@ Gebruik:
 
 Het script houdt alleen de velden die de widget nodig heeft en sorteert op id,
 zodat een ongewijzigde lijst ook een ongewijzigd bestand (en dus geen commit) geeft.
+
+Veiligheid: bij een lege of kapotte export stopt het script met een foutmelding
+zonder woorden.json aan te raken. De widget blijft dan gewoon de vorige lijst tonen.
 """
 import json
 import sys
@@ -19,10 +22,18 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
 OUT = REPO / "woorden.json"
+
+# Velden die meegaan naar de widget:
+#   fr, nl        -> wat op het scherm staat
+#   example       -> voorbeeldzin (enkel op de grotere home screen-widget)
+#   nextReview    -> is het woord "due"? Dan komt het vaker langs
+#   correct/incorrect -> vaker fout = vaker tonen
+#   note, theme   -> niet getoond, wel handig om te hebben
 FIELDS = ["fr", "nl", "example", "note", "theme", "nextReview", "correct", "incorrect"]
 
 
 def load_rows(path):
+    """Leest de export regel per regel; regels die geen JSON-object zijn worden overgeslagen."""
     rows = []
     for n, line in enumerate(Path(path).read_text(encoding="utf-8").splitlines(), 1):
         line = line.strip()
@@ -36,6 +47,7 @@ def load_rows(path):
 
 
 def build(rows):
+    """Zet de ruwe database-rijen om naar compacte woorden voor de widget."""
     woorden = []
     for r in rows:
         d = r.get("data", r)
