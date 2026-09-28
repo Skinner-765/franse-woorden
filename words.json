@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-27",
+ "updatedAt": "2026-09-28",
  "count": 35,
  "words": [
   {
@@ -9,8 +9,8 @@
    "example": "Le bateau est déjà au port.",
    "note": "à + le = au (le port is mannelijk).",
    "theme": "scheepvaart",
-   "nextReview": "2026-09-24",
-   "correct": 2,
+   "nextReview": "2026-10-05",
+   "correct": 3,
    "incorrect": 1
   },
   {
@@ -18,20 +18,21 @@
    "fr": "avoir envie de",
    "nl": "zin hebben in",
    "example": "J'ai envie d'un café.",
+   "note": "Verward met avoir hâte de (28/09, hersteld) en fout met -s/koppelteken bij 'as-tu envie de' (28/09, hersteld). 'Envie' blijft enkelvoud; let op koppelteken bij inversie (as-tu...). Blijft prioriteit.",
    "theme": "dagelijks leven/sociaal",
-   "nextReview": "2026-09-24",
-   "correct": 0,
-   "incorrect": 0
+   "nextReview": "2026-09-29",
+   "correct": 1,
+   "incorrect": 2
   },
   {
    "id": "avoir-hate-de",
    "fr": "avoir hâte de + infinitif",
    "nl": "ergens naar uitkijken / niet kunnen wachten om",
    "example": "J'ai hâte de te revoir.",
-   "note": "Vergeet 'avoir' niet: 'je hâte' bestaat niet, het moet 'j'ai hâte' zijn. Structuur nu wel goed (dag 6), maar verwart recevoir (ontvangen) met revoir (terugzien) — dag 6 opnieuw fout, na correctie wel goed geproduceerd. Blijft prioriteit.",
+   "note": "Structuur en recevoir/revoir-onderscheid nu 2x op rij correct (dag 6 en inhaalsessie 28/09) — patroon lijkt opgelost.",
    "theme": "dagelijks leven/sociaal",
-   "nextReview": "2026-09-27",
-   "correct": 0,
+   "nextReview": "2026-10-01",
+   "correct": 1,
    "incorrect": 2
   },
   {
@@ -71,10 +72,10 @@
    "fr": "ci-joint",
    "nl": "bijgevoegd, hierbij",
    "example": "Ci-joint, le devis demandé.",
-   "note": "Letterlijk 'hier-gehecht'.",
+   "note": "Letterlijk 'hier-gehecht'. Let op agreement: na het z.nw. stemt ci-joint mee (la facture ci-jointe).",
    "theme": "zakelijk (e-mails/offertes)",
-   "nextReview": "2026-09-28",
-   "correct": 1,
+   "nextReview": "2026-10-05",
+   "correct": 2,
    "incorrect": 0
   },
   {
@@ -115,8 +116,8 @@
    "nl": "al / reeds",
    "example": "Le bateau est déjà au port.",
    "theme": "dagelijks leven",
-   "nextReview": "2026-09-28",
-   "correct": 1,
+   "nextReview": "2026-10-28",
+   "correct": 2,
    "incorrect": 0
   },
   {
@@ -147,8 +148,8 @@
    "example": "Hier, je suis allé à Bruxelles.",
    "note": "Niet verwarren met Engels 'here'.",
    "theme": "dagelijks leven",
-   "nextReview": "2026-09-28",
-   "correct": 1,
+   "nextReview": "2026-10-28",
+   "correct": 2,
    "incorrect": 0
   },
   {
@@ -169,8 +170,8 @@
    "example": "Hier, je suis allé à Bruxelles en train.",
    "note": "Bewegingswerkwoorden (aller/venir/partir/arriver) vormen passé composé met être, niet avoir.",
    "theme": "werkwoorden",
-   "nextReview": "2026-09-24",
-   "correct": 1,
+   "nextReview": "2026-10-05",
+   "correct": 2,
    "incorrect": 1
   },
   {
@@ -202,8 +203,8 @@
    "example": "Vous trouverez la facture en pièce jointe.",
    "note": "en pièce jointe = als bijlage.",
    "theme": "zakelijk (e-mails/offertes)",
-   "nextReview": "2026-09-28",
-   "correct": 1,
+   "nextReview": "2026-10-05",
+   "correct": 2,
    "incorrect": 0
   },
   {
@@ -246,8 +247,8 @@
    "example": "Qu'est-ce que tu fais ce week-end ?",
    "note": "Klinkt als Engels, geen vertaalprobleem.",
    "theme": "dagelijks leven/sociaal",
-   "nextReview": "2026-09-24",
-   "correct": 0,
+   "nextReview": "2026-10-01",
+   "correct": 1,
    "incorrect": 0
   },
   {
@@ -267,8 +268,8 @@
    "example": "J'ai oublié mon parapluie.",
    "note": "le parapluie is mannelijk: para (tegen) + pluie (regen).",
    "theme": "dagelijks leven",
-   "nextReview": "2026-09-24",
-   "correct": 1,
+   "nextReview": "2026-10-05",
+   "correct": 2,
    "incorrect": 1
   },
   {
@@ -277,8 +278,8 @@
    "nl": "vergeten",
    "example": "J'ai oublié mon parapluie.",
    "theme": "werkwoorden",
-   "nextReview": "2026-09-28",
-   "correct": 1,
+   "nextReview": "2026-10-28",
+   "correct": 2,
    "incorrect": 0
   },
   {
@@ -298,8 +299,8 @@
    "nl": "iets",
    "example": "Tu veux boire quelque chose ?",
    "theme": "dagelijks leven/sociaal",
-   "nextReview": "2026-09-24",
-   "correct": 1,
+   "nextReview": "2026-10-01",
+   "correct": 2,
    "incorrect": 0
   },
   {
@@ -339,10 +340,10 @@
    "fr": "retrouver (qn)",
    "nl": "(iemand) terugzien/afspreken met",
    "example": "Je retrouve mes amis au café.",
-   "note": "Niet verwarren met trouver (vinden). Dag 6: opnieuw 'retrouver' gebruikt waar 'trouver' moest ('vous pouvez trouver la facture') — zelfde fout als dag 5, na correctie goed geproduceerd. Hardnekkig patroon.",
+   "note": "Trouver vs retrouver nu correct geproduceerd zonder hulp (28/09) — patroon lijkt opgelost, kort blijven monitoren.",
    "theme": "dagelijks leven/sociaal",
-   "nextReview": "2026-09-28",
-   "correct": 1,
+   "nextReview": "2026-10-05",
+   "correct": 2,
    "incorrect": 1
   },
   {
