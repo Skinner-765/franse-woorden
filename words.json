@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-28",
+ "updatedAt": "2026-09-29",
  "count": 35,
  "words": [
   {
@@ -18,10 +18,10 @@
    "fr": "avoir envie de",
    "nl": "zin hebben in",
    "example": "J'ai envie d'un café.",
-   "note": "Verward met avoir hâte de (28/09, hersteld) en fout met -s/koppelteken bij 'as-tu envie de' (28/09, hersteld). 'Envie' blijft enkelvoud; let op koppelteken bij inversie (as-tu...). Blijft prioriteit.",
+   "note": "Verward met avoir hâte de (28/09 eerder, hersteld); 'envie' blijft enkelvoud; koppelteken bij inversie (as-tu envie...). 28/09 tweede sessie: 'j'ai envie d'un café' meteen correct.",
    "theme": "dagelijks leven/sociaal",
-   "nextReview": "2026-09-29",
-   "correct": 1,
+   "nextReview": "2026-10-01",
+   "correct": 2,
    "incorrect": 2
   },
   {
@@ -42,8 +42,8 @@
    "example": "— On se retrouve à 18h ? — Ça marche !",
    "note": "Heel informeel/alledaags, letterlijk 'dat werkt/loopt'.",
    "theme": "dagelijks leven/sociaal",
-   "nextReview": "2026-09-25",
-   "correct": 0,
+   "nextReview": "2026-10-01",
+   "correct": 1,
    "incorrect": 0
   },
   {
@@ -53,8 +53,8 @@
    "example": "Ça te dit d'aller au cinéma ?",
    "note": "Vaste constructie: ça te dit DE + infinitief (niet 'pour').",
    "theme": "dagelijks leven/sociaal",
-   "nextReview": "2026-09-27",
-   "correct": 1,
+   "nextReview": "2026-10-05",
+   "correct": 2,
    "incorrect": 1
   },
   {
@@ -63,8 +63,8 @@
    "nl": "vanavond",
    "example": "Je réserve une table pour ce soir.",
    "theme": "dagelijks leven",
-   "nextReview": "2026-09-28",
-   "correct": 1,
+   "nextReview": "2026-10-28",
+   "correct": 2,
    "incorrect": 0
   },
   {
@@ -84,8 +84,8 @@
    "nl": "bevestigen",
    "example": "Pouvez-vous confirmer la commande ?",
    "theme": "zakelijk (e-mails/offertes)",
-   "nextReview": "2026-09-29",
-   "correct": 1,
+   "nextReview": "2026-10-29",
+   "correct": 2,
    "incorrect": 0
   },
   {
@@ -93,11 +93,11 @@
    "fr": "dans l'attente de votre réponse",
    "nl": "in afwachting van uw antwoord",
    "example": "Dans l'attente de votre réponse, cordialement.",
-   "note": "Vaste afsluitzin, vlak vóór 'cordialement'.",
+   "note": "Vaste afsluitzin, vlak vóór 'cordialement'. 29/09: eerst 'en attente de' fout, na correctie goed.",
    "theme": "zakelijk (e-mails/offertes)",
-   "nextReview": "2026-09-28",
+   "nextReview": "2026-10-02",
    "correct": 1,
-   "incorrect": 0
+   "incorrect": 1
   },
   {
    "id": "dedouaner",
@@ -126,8 +126,8 @@
    "nl": "het spijt me / sorry",
    "example": "Désolé, je ne peux pas venir.",
    "theme": "dagelijks leven/sociaal",
-   "nextReview": "2026-09-27",
-   "correct": 2,
+   "nextReview": "2026-10-05",
+   "correct": 3,
    "incorrect": 0
   },
   {
@@ -137,8 +137,8 @@
    "example": "Désolé, je suis en retard.",
    "note": "Niet hetzelfde als 'tard' (laat qua tijdstip) — 'en retard' = te laat t.o.v. een afspraak/planning.",
    "theme": "dagelijks leven/sociaal",
-   "nextReview": "2026-09-27",
-   "correct": 1,
+   "nextReview": "2026-10-05",
+   "correct": 2,
    "incorrect": 1
   },
   {
@@ -157,10 +157,10 @@
    "fr": "j'aimerais + infinitief",
    "nl": "ik zou graag... (conditionnel)",
    "example": "J'aimerais réserver une table.",
-   "note": "Beleefde/voorzichtige vorm — goed onthouden.",
+   "note": "Beleefde/voorzichtige vorm — goed onthouden. 29/09: eerste poging 'je voudrais' (ook correct Frans, maar niet doelwoord), op verzoek j'aimerais goed geproduceerd.",
    "theme": "werkwoorden",
-   "nextReview": "2026-09-28",
-   "correct": 1,
+   "nextReview": "2026-10-29",
+   "correct": 2,
    "incorrect": 0
   },
   {
@@ -179,11 +179,11 @@
    "fr": "la cargaison",
    "nl": "de lading",
    "example": "La cargaison arrive demain.",
-   "note": "Ezelsbrug: 'cargo' zit erin.",
+   "note": "Ezelsbrug: 'cargo' zit erin. Vrouwelijk: woorden op -aison zijn bijna altijd vrouwelijk (la maison, la saison, la raison). 28/09: 'le cargaison' fout, na correctie goed. 29/09: correct geslacht meteen goed — patroon lijkt opgelost.",
    "theme": "scheepvaart",
-   "nextReview": "2026-09-28",
-   "correct": 1,
-   "incorrect": 0
+   "nextReview": "2026-10-02",
+   "correct": 2,
+   "incorrect": 1
   },
   {
    "id": "la-douane",
@@ -212,22 +212,22 @@
    "fr": "le délai",
    "nl": "de termijn/levertijd",
    "example": "Quel est le délai de livraison ?",
-   "note": "Valse vriend: betekent NIET 'vertraging'.",
+   "note": "Valse vriend: betekent NIET 'vertraging'. 29/09: 'temps' i.p.v. 'délai' gebruikt, en 'du livraison' i.p.v. 'de livraison' (livraison is vrouwelijk) — na correctie goed.",
    "theme": "zakelijk (e-mails/offertes)",
-   "nextReview": "2026-09-29",
+   "nextReview": "2026-10-02",
    "correct": 1,
-   "incorrect": 0
+   "incorrect": 1
   },
   {
    "id": "le-devis",
    "fr": "le devis",
    "nl": "de offerte",
    "example": "Je vous envoie le devis pour ce projet.",
-   "note": "Devis = vóór de bestelling; la facture = erna.",
+   "note": "Devis = vóór de bestelling; la facture = erna. 29/09: lidwoord 'un' i.p.v. 'le' fout, na correctie goed.",
    "theme": "zakelijk (e-mails/offertes)",
-   "nextReview": "2026-09-29",
+   "nextReview": "2026-10-02",
    "correct": 1,
-   "incorrect": 0
+   "incorrect": 1
   },
   {
    "id": "le-fret",
@@ -257,8 +257,8 @@
    "nl": "maar",
    "example": "Le fret est cher mais le bateau est déjà au port.",
    "theme": "dagelijks leven",
-   "nextReview": "2026-09-28",
-   "correct": 1,
+   "nextReview": "2026-10-29",
+   "correct": 2,
    "incorrect": 0
   },
   {
@@ -289,8 +289,8 @@
    "example": "La douane n'a pas encore dédouané la cargaison.",
    "note": "Vaak vergeten toe te voegen — verandert de betekenis.",
    "theme": "werkwoorden",
-   "nextReview": "2026-09-28",
-   "correct": 1,
+   "nextReview": "2026-10-05",
+   "correct": 2,
    "incorrect": 2
   },
   {
@@ -310,8 +310,8 @@
    "example": "Qu'est-ce que tu veux boire ? Je prends un café.",
    "note": "Quel hoort bij een zelfstandig naamwoord (quel café), niet bij 'wat'.",
    "theme": "dagelijks leven",
-   "nextReview": "2026-09-25",
-   "correct": 1,
+   "nextReview": "2026-10-05",
+   "correct": 2,
    "incorrect": 1
   },
   {
@@ -319,11 +319,11 @@
    "fr": "recevoir",
    "nl": "ontvangen",
    "example": "Je voudrais recevoir le devis.",
-   "note": "Niet verwarren met réserver (reserveren) — vandaag verward.",
+   "note": "Niet verwarren met réserver (reserveren), revoir (terugzien) of rencontrer (ontmoeten) — 28/09: 'rencontrer la facture' i.p.v. 'recevoir la facture', na correctie goed. 29/09: recevoir zelf correct (fout zat in lidwoord bij devis).",
    "theme": "werkwoorden",
-   "nextReview": "2026-09-28",
-   "correct": 1,
-   "incorrect": 1
+   "nextReview": "2026-10-02",
+   "correct": 2,
+   "incorrect": 2
   },
   {
    "id": "reserver",
@@ -331,8 +331,8 @@
    "nl": "reserveren",
    "example": "J'aimerais réserver une table.",
    "theme": "werkwoorden",
-   "nextReview": "2026-09-28",
-   "correct": 1,
+   "nextReview": "2026-10-28",
+   "correct": 2,
    "incorrect": 0
   },
   {
@@ -351,10 +351,10 @@
    "fr": "se promener",
    "nl": "wandelen",
    "example": "On se promène dans le parc.",
-   "note": "Wederkerend werkwoord: voornaamwoord moet overeenstemmen (ça te dit de TE promener, niet de promener).",
+   "note": "Wederkerend werkwoord: voornaamwoord moet overeenstemmen (ça te dit de TE promener). 28/09 correct geproduceerd — patroon lijkt opgelost.",
    "theme": "dagelijks leven/sociaal",
-   "nextReview": "2026-09-28",
-   "correct": 1,
+   "nextReview": "2026-10-05",
+   "correct": 2,
    "incorrect": 2
   },
   {
